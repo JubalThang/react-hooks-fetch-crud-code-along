@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 3,
@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "The Seer",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "pressure",
+      "category": "Dessert",
+      "isInCart": true,
+      "id": 8
     }
   ]
 }
